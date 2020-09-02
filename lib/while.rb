@@ -9,5 +9,3 @@ def using_while
 end
 end
 end
-
-using_while
