@@ -6,5 +6,3 @@ def using_until
   break if levitation_force == 11
  end
 end
-
-using_until
