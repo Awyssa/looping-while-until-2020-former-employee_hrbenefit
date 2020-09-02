@@ -3,4 +3,5 @@ def using_until
   while levitation_force <=10
     levitation_force += 1
   break if levitation_force == 11
+ end
 end
