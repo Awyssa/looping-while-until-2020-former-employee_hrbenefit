@@ -8,7 +8,4 @@ def using_while
  end
 end
 
-
-
-puts out the phrase 'Wingardium Leviosa' while
-the levitation force is incremented to 10
+using_while
